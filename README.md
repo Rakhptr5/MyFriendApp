@@ -1,0 +1,5 @@
+# MyFriendApp ![Screenshot (322)](https://user-images.githubusercontent.com/80082749/228097854-299a6844-7871-4fc4-b375-5c466daf7f61.png)
+![Screenshot (323)](https://user-images.githubusercontent.com/80082749/228097882-e304febf-b9f4-4627-bbc3-aab5e11e1832.png)
+![Screenshot (324)](https://user-images.githubusercontent.com/80082749/228097909-e0da238b-612a-49b3-a65e-e584f1ffb645.png)
+![Screenshot (326)](https://user-images.githubusercontent.com/80082749/228097926-5651b58c-b23a-4f16-a3f6-87dab3ef1c72.png)
+![Screenshot (327)](https://user-images.githubusercontent.com/80082749/228097951-a6574901-c516-4854-b8cf-c6d69c6c055e.png)
